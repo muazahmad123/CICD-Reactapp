@@ -11,12 +11,12 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://kryptomind.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Kryptomind
-          
+
         </a>
       </header>
     </div>
