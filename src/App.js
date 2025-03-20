@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Kryptomind
+          
         </a>
       </header>
     </div>
